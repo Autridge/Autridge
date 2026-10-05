@@ -5,12 +5,8 @@ I'm a junior software developer and Software Engineering student with a passion 
 
 ## 🛠️ Technologies & Tools
 - **Frontend**: React, Redux Toolkit, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+- **Backend**: NodeJs -- Express & NestJS
 - **Design & UI**: Figma, Photoshop
 - **Architecture & Concepts**: Database Management
 - **Tools**: Git (advanced command-line operations & version control architecture), GitHub, VS Code, npm, Webpack
 
-🌱 Currently Learning
-- Advanced TypeScript patterns (Generics, Discriminated Unions)
-- Deepening knowledge of React internals and state management
-- Backend basics with Node.js
-- French 🇫🇷 (Starting out as an absolute beginner!)
