@@ -27,4 +27,6 @@ I'm a junior software developer and Software Engineering student with a passion 
 - **Design & UI**: Figma, Photoshop
 - **Architecture & Concepts**: Database Management (MongoDB & PostgreSQL)
 - **Tools**: Git (advanced command-line operations & version control architecture), GitHub, VS Code, npm, Webpack
+
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,expressjs,docker,postgres,mongodb,vscode)](https://skillicons.dev)
